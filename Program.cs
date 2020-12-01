@@ -7,7 +7,7 @@ namespace HelloWorldd
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Дима Пидор))))");
+            Console.Write("Дима Пидор))))\nТы крип, крипочек");
         }
     }
 }
